@@ -15,16 +15,3 @@
 ZZZZZZZZZZZZ
 VVVVVVVVVVVV
 DDDDDDDDDDDD
-<<<<<<< HEAD
-FFFFFFFFFFFF
-GGGGGGGGGGGG
-=======
-LLLLLLLLLLLL
-||||||||||||
->>>>>>> 2f13b1cd0eea497f4eefcafb718f6b3b9ac0f9dc
-VC
-VC
-VC
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-||||||||||||||||||||||||||||
-///////////////////////////
